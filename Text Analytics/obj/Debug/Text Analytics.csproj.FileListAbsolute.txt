@@ -1,0 +1,29 @@
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Text Analytics.exe.config
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Text Analytics.exe
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Text Analytics.pdb
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.xml
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text Analytics.csprojAssemblyReference.cache
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text_Analytics.Main.resources
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text_Analytics.Properties.Resources.resources
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text Analytics.csproj.GenerateResource.cache
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text Analytics.csproj.CoreCompileInputs.cache
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text Analytics.csproj.CopyComplete
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text Analytics.exe
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text Analytics.pdb
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text_Analytics.Import.resources
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text_Analytics.Report.resources
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text_Analytics.ChartResult.resources
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text_Analytics.Occurrences.resources
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text_Analytics.Generate.resources
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text_Analytics.CustomAnalytic.resources
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\obj\Debug\Text_Analytics.RunAnalytic.resources
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Data\ReadMe.txt
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Data\Input.txt
+C:\Users\Sel Work Experience\source\repos\Text Analytics\Text Analytics\bin\Debug\Data\Input2.txt
