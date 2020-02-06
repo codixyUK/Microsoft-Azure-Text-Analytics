@@ -1,5 +1,5 @@
 # Text-Analytics
-Using Microsoft Azure's powerful Text Analystic that runs through a excel and text documents and extracting results for languages, key-phrases, sentiments and entities. The results are displayed in a list, occurrences, charts and reports. You can select which columns you would like to analyse from the excel or text file. 
+Using Microsoft Azure's powerful Text Analystic tool to run through excel and text documents, while extracting results for languages, key-phrases, sentiments and entities. The results are displayed in a list, occurrences, charts and reports. You can select which columns you would like to analyse from the excel or text file. 
 
 # How to set it up
 
